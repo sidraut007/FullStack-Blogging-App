@@ -1,13 +1,20 @@
 # FullStack Monolithic Blogging App - DevOps Integration
 
 - A monolithic full-stack blogging application built using Spring Boot for the backend and a modern frontend framework.  
-- This project showcases CRUD operations, user authentication, and a responsive UI for managing blog posts, all integrated into a single        deployable unit.
+- This project showcases CRUD operations, user authentication, and a responsive UI for managing blog posts, all integrated into a single deployable unit.
+
+---
+
+![Login diagram](images/blogging-page.png)
+
+---
 
 ## Features
 
 - User authentication and authorization
 - Create, Post and read blog posts
 
+---
 
 ## Installation
 
